@@ -1,0 +1,29 @@
+##################
+#     MsChat     #
+##################
+
+emptyMessagesOnClear: 100
+
+messages:
+
+  noPermission: "&4Nie masz uprawnień do użycia tej komendy."
+  wrongArgument: "&4Zły argument, wpisz &7/chat help"
+
+  spacerUp: " "
+  spacerDown: " "
+
+  chatClear: "&6&lCzat został wyczyszczony"
+  chatOn: "&2&lCzat został włączony"
+  chatOff: "&4&lCzat został wyłączony"
+
+  chatIsDisabled: "&4Czat jest obecnie wyłączony."
+  chatIsEnabled: "&2Czat jest obecnie włączony."
+
+help:
+  plugin: "&6MsChat &f{VERSION}"
+  onCmd: "&2/chat on &f- Włącza czat."
+  offCmd: "&2/chat off &f- Wyłącza czat."
+  clearCmd: "&2/chat clear &f- Czyści czat."
+  infoCmd: "&2/chat info &f- Wyświetla stan czatu."
+  helpCmd: "&2/chat help &f- Wyświetla pomoc."
+  alias: "&f Możesz używać /c zamiast /chat"

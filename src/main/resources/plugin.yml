@@ -1,0 +1,9 @@
+name: MsChat
+version: 1.0
+author: Narratar
+main: io.github.narratar.mschat.MsChat
+api-version: 1.14
+
+commands:
+  chat:
+    aliases: [c]
