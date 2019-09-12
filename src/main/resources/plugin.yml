@@ -1,5 +1,5 @@
 name: MsChat
-version: 1.0.2
+version: ${project.version}
 author: Narratar
 main: io.github.narratar.mschat.MsChat
 api-version: 1.14
